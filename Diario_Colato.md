@@ -189,11 +189,18 @@ Scelta dell'ambiente di lavoro (JMonkeyEngine)
 
 Appunti sulle caratteristiche del gioco (velivolo e scenario):
 </p>
-<img src="https://private-user-images.githubusercontent.com/235665250/557150918-a296c72c-940e-4f0a-a888-7da67044f4a6.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0OTAxNDEsIm5iZiI6MTc3MjQ4OTg0MSwicGF0aCI6Ii8yMzU2NjUyNTAvNTU3MTUwOTE4LWEyOTZjNzJjLTk0MGUtNGYwYS1hODg4LTdkYTY3MDQ0ZjRhNi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDMwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAzMDJUMjIxNzIxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MWNjMjU5YWI5YWQ0M2MyY2EyNjk5NWMwNzYxMmIxZGFjZDJkZWVjZTY4Yzk2OTZlMWE4NmE0MGU0ZmJiYWQ2ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.RBXN6cn8bpXTXJtO0Db-_OJxIqnaz1wCDx0IH6ww3qo" alt="Caratteristiche gioco"  width=500>
+<img src="https://github.com/user-attachments/assets/a296c72c-940e-4f0a-a888-7da67044f4a6" alt="Caratteristiche gioco"  width=500>
 <br><br>
 <p>
 Esempio classe UML:
 </p>
-<img src="https://private-user-images.githubusercontent.com/235665250/557144043-fd552ae8-b98f-42a1-aa0c-e6e0416b7aaa.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI0ODkxNzAsIm5iZiI6MTc3MjQ4ODg3MCwicGF0aCI6Ii8yMzU2NjUyNTAvNTU3MTQ0MDQzLWZkNTUyYWU4LWI5OGYtNDJhMS1hYTBjLWU2ZTA0MTZiN2FhYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwMlQyMjAxMTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OWYyMDc4MzI4ZDdkMjgwYzkyYWFhODdmMTc4NDVhMTIyYzZjOTg4YmNlOGVjYzk0NzhiMmM2YmIwN2MzY2E2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.idHK1ZyFC8crH35Edgm03UFSH2X7bLsZTTmLWbcQtJM" alt="Immagine di esempio UML" width="300">
+<img src="https://github.com/user-attachments/assets/fd552ae8-b98f-42a1-aa0c-e6e0416b7aaa" alt="Immagine di esempio UML" width="300">
 
-## Scelta progetto (vedi documento progetto)
+### 4 marzo 2026
+
+## Creazione dell'architettura logica
+
+<p>Ho iniziato a realizzare le nozioni base della logica per il funzionamento del gioco, tra cui l'assegnazione dei tasti della tastiera ai relativi comandi, la stesura dei dialoghi tra pilota e torre di controllo e l'elenco delle relative formule fisiche da utilizzare.</p><br>
+Ho inoltre cercato e trovato su internet alcuni modelli 3d che daranno la base del nostro aereo.<br><br>
+Esempio di dialoghi con torre di controllo:
+<img src="https://github.com/user-attachments/assets/2795dfc7-078d-4224-a9b7-6cdbe2ccfbe7" alt="Immagine dialoghi torre di controllo" width="400">
