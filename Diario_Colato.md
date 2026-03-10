@@ -180,7 +180,6 @@ Codice:
 }
 ```
 
-Scelta dell'ambiente di lavoro (JMonkeyEngine)
 
 ### 25 febbraio 2026
 
