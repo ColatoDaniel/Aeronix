@@ -15,7 +15,7 @@
 **Caratteristiche** => E' una ragazza di 16 anni che nel tempo libero gioca assieme ai suoi amici online<br>
 
 ### 2. **Diario di bordo**
-   - **Link**: 
+   - **Link**: https://github.com/ColatoDaniel/Aeronix/blob/df7742da431726f24ff45ba0fc78a4a1acfd6d79/Diario_Colato.md
 
 ### 3. **Design dell'Architettura**
    - **Scelta della Struttura**: Applicazione desktop
