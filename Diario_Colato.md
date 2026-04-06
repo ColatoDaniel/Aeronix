@@ -891,4 +891,4 @@ public boolean isCrashed() {
 Nel progetto finale la stessa logica è gestita in `AirplaneModel` dentro `updatePosition()`: quando la posizione Y scende sotto `groundLevel`, la velocità verticale viene azzerata e la posizione Y viene bloccata. Nel `GameController` si potrà in futuro aggiungere il controllo sulla velocità all'impatto per distinguere un atterraggio morbido da uno schianto.
 Ora abbiamo anche finito di creare l'UML per il model, mancherebbe ancora l'UML del controller e del view ma i tempi sono ristretti.
 
-<img src="https://github.com/user-attachments/assets/21c75002-c6ad-4852-98aa-7637eaf07058" alt="UML" width="1500">
+<img src="https://github.com/user-attachments/assets/af3020e7-712a-46f3-85fb-4279e327263d" alt="UML" width="1500">
