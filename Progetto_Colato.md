@@ -23,35 +23,36 @@
 
 ### 4. **Progettazione del Sistema**
    - **Diagrammi UML**: <br><br>
-   <img src="https://github.com/user-attachments/assets/fd552ae8-b98f-42a1-aa0c-e6e0416b7aaa" alt="Immagine di esempio UML" width="300">
+   <img src="https://github.com/user-attachments/assets/af3020e7-712a-46f3-85fb-4279e327263d" alt="UML" width="1500">
 
 ### 5. **Setup dell'Ambiente di Sviluppo**
-   - **IDE**: JMonkeyEngine
+   - **IDE**: JMonkeyEngine, IntelliJ IDEA
+   - **Engine**: Blender
 
 ### 6. **Sviluppo**
-   - **Struttura del Progetto**: Creare una struttura di cartelle chiara (src, lib, resources). *(In svolgimento)*
-   - **Scrivere Codice**: Iniziare a implementare le funzionalità, seguendo le migliori pratiche di programmazione.*(In svolgimento)*
+   - **Struttura del Progetto**: La struttura delle cartelle è organizzata secondo l'MVC
+   - **Scrivere Codice**: Iniziare a implementare le funzionalità, seguendo le migliori pratiche di programmazione.
    - **Version Control**: [Link alla repo di Aeronix](https://github.com/ColatoDaniel/Aeronix.git)
 
 ### 7. **Testing**
-   - **Unit Test**: Scrivere test per le singole unità di codice.*(In svolgimento)*
-   - **Integrazione Test**: Testare l'integrazione di diverse parti del sistema.*(In svolgimento)*
-   - **Test di Sistema**: Verificare se il sistema soddisfa i requisiti.*(In svolgimento)*
+   - **Unit Test**: Scrivere test per le singole unità di codice.  (Svolto)
+   - **Integrazione Test**: Testare l'integrazione di diverse parti del sistema. (Svolto)
+   - **Test di Sistema**: Verificare se il sistema soddisfa i requisiti.(Svolto)
 
 ### 8. **Documentazione**
-   - **Documentazione del Codice**: Usare Javadoc per documentare il codice.*(In svolgimento)*
-   - **Manuale Utente**: Creare un manuale che spiega come utilizzare l'applicazione.*(In svolgimento)*
+   - **Documentazione del Codice**: Usare Javadoc per documentare il codice.(Svolto)
+   - **Manuale Utente**: Creare un manuale che spiega come utilizzare l'applicazione.(Svolto)
 
 ### 9. **Deployment**
    - **Packaging**: Creare un file .jar o un installer, a seconda della tipologia di progetto.*(In svolgimento)*
-  
+
 
 ### 10. **Manutenzione e Aggiornamenti**
-   - **Correzione Bug**: Rispondere rapidamente ai bug segnalati dagli utenti.*(In svolgimento)*
-   - **Aggiornamenti**: Aggiungere nuove funzionalità in base al feedback.*(In svolgimento)*
+   - **Correzione Bug**: Rispondere rapidamente ai bug segnalati dagli utenti.(Svolto)
+   - **Aggiornamenti**: Aggiungere nuove funzionalità in base al feedback.(Svolto)
 
 ### 11. **Riflessione e Apprendimento**
-   - **Feedback**: Raccogliere feedback dagli utenti e fare una riflessione finale sul progetto per migliorare le abilità per future iniziative.*(In svolgimento)*
+   - **Feedback**: Raccogliere feedback dagli utenti e fare una riflessione finale sul progetto per migliorare le abilità per future iniziative.(Svolto)
 
 
 
