@@ -132,4 +132,12 @@ Accessibile dal pulsante **Settings** nel pannello laterale durante il gioco:
 
 ---
 
+## 8. Come avviare il gioco
+
+1. Aprire la cartella "Aeronix" con un qualsiasi IDE, consigliato IntelliJ IDEA
+2. Verificare che i seguenti parametri nel riquadro rosso siano azzerati (bug da risolvere)
+<img width="1500"  alt="Image" src="https://github.com/user-attachments/assets/013d913b-7497-4d1b-9598-137b668d184c" />
+3. Nel package org.controller selezionare la classe java "FlightSimulatorApp" e cliccare su "RUN"
+4. Se la schermata è azzurra andare su Settings->Controls->Restore defaults->Apply changes->Back->Back
+
 *Buon volo!*
